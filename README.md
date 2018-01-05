@@ -1,0 +1,2 @@
+# sampleproject
+android setup check
